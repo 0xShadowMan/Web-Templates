@@ -4,7 +4,7 @@ A collection of clean, responsive, and modern **web homepage templates**. Each f
 
 ## 📁 Contents
 
-- `3d project/` — 3D animation-inspired homepage layout  
+- `3d project/` — 3D CSS animation-inspired homepage layout  
 - `Coffie/` — Coffee shop landing page design  
 - `Ecco web/` — Clean and minimal homepage layout  
 - `Ecommerce Website/` — E-commerce store homepage UI  
@@ -13,7 +13,7 @@ A collection of clean, responsive, and modern **web homepage templates**. Each f
 - `Google-Homepage/` — Simple Google homepage-style clone  
 - `Nick Shop/` — Product-focused landing page  
 - `Personal/` — Personal homepage or bio page  
-- `Smart Wache/` — Gadget/product launch homepage  
+- `Smart Watch/` — Gadget/product launch homepage  
 - `X-Drone/` — Drone or tech product homepage layout  
 - `ecco web 2/` — Second variation of Ecco web theme  
 - `mobile app/` — App landing page (mobile-focused)  
